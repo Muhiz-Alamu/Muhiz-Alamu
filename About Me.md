@@ -16,4 +16,5 @@ I am a **Data Analyst** skilled in **Excel, SQL, Power BI, and Python**, with ha
 
 ## Contact Me
 [LinkedIn](https://linkedin.com/in/muhiz-alamu-62401319a)
+
 [Email](alamuabdulmuhiz@gmail.com)
