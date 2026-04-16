@@ -1,9 +1,9 @@
 # Hello I'm Muhiz
-## About Me
+## Professional Summary
 I am a **Data Analyst** with a strong foundation in data cleaning, transformation, and visualization using __Excel, SQL, Power BI, and Python__.
 With a background in healthcare and research, I approach data with a problem-solving mindset and a strong understanding of real-world impact. I am passionate about turning raw data into actionable insights that drive better decisions.
 ________________________________________
-### What I Do
+### My Work
 - Analyze and clean raw datasets to uncover meaningful insights
 - Build interactive dashboards in Power BI
 - Write optimized SQL queries for data extraction and aggregation
@@ -11,7 +11,7 @@ ________________________________________
 - Apply statistical thinking to business and healthcare problems
 - Build beginner-level machine learning models and evaluate their performance
 ________________________________________
-### My Approach
+### My Workflow
 I believe data analysis is not just about tools — it is about structured thinking.
 My workflow typically includes:
 1.	Understanding the business problem
@@ -21,7 +21,7 @@ My workflow typically includes:
 5.	Communicating insights clearly using dashboards or reports
 I focus on clarity, reproducibility, and storytelling with data.
 ________________________________________
-### What I Bring to the Table
+### My Strengths
 - Strong analytical mindset
 - Attention to detail in data cleaning and validation
 - Ability to communicate insights in simple terms
@@ -29,7 +29,7 @@ ________________________________________
 - Continuous learners currently building expertise in Machine Learning
 I combine technical skills with real-world problem understanding.
 ________________________________________
-### Core Competencies
+### Professional Capabilities
 - Data Cleaning & Transformation
 - Exploratory Data Analysis (EDA)
 - Dashboard Development
@@ -61,7 +61,7 @@ ________________________________________
 ________________________________________
 Let’s Connect
 I am open to:
-•	Entry-level Data Analyst roles
-•	Internship opportunities
-•	Collaborative data projects
-If you're looking for someone who is analytical, detail-oriented, and committed to growth, feel free to connect or explore my repositories below.
+- Entry-level Data Analyst roles
+- Internship opportunities
+- Collaborative data projects
+* If you're looking for someone who is analytical, detail-oriented, and committed to growth, feel free to connect or explore my repositories below.
